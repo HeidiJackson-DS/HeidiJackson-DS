@@ -46,10 +46,10 @@ Projects are currently being developed and will be added here as they are comple
 
 ## 🎓 Education
 
-**M.S. Data Science, Analytics & AI**
+**M.S. Data Science, Analytics & AI**. 
 Eastern University · In Progress
 
-**B.S. Biotechnology**
+**B.S. Biotechnology**. 
 Worcester State University
 
 
