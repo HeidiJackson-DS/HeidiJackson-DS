@@ -61,5 +61,5 @@ I'm particularly interested in applying data science and machine learning to rea
 
 ## 📫 Connect With Me
 
-[LinkedIn](YOUR-LINKEDIN-URL)
+[LinkedIn](https://www.linkedin.com/in/heidi-jackson-0440a2198)
 
